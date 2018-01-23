@@ -1,0 +1,2 @@
+# AssetScan
+Scan ICO data
